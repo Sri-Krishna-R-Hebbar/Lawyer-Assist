@@ -34,16 +34,20 @@ To make it simpler for prospective clients to find and get in touch with them, l
 ## 📌Installation
 
 1. Clone the repo
-   
+   ```sh
    git clone https://github.com/Sri-Krishna-R-Hebbar/Lawyer-Assist.git
+   ```
 
 2. Sign in [or] Login and access the nyAI and connect with Lawyers
 
+   ```sh
     Run the code :  Login\views\index.html
+   ```
 
 3. Run the nyAI for your legal Assistance
-
+   ```sh
     node '.\Lawyer-Assist\Chatbot\test - Copy\chatbot2\src\server.js'
+   ```
 
 
 ## 📌Usage
