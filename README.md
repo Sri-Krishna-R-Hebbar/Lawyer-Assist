@@ -38,13 +38,18 @@ To make it simpler for prospective clients to find and get in touch with them, l
    git clone https://github.com/Sri-Krishna-R-Hebbar/Lawyer-Assist.git
    ```
 
-2. Sign in [or] Login and access the nyAI and connect with Lawyers
+2. Write your API Keys and required personal information in the given place in the following files :
+   ```
+      Chatbot\test - Copy\chatbot2\src\server.js
+      Login\server.js
+   ```
+3. Sign in [or] Login and access the nyAI and connect with Lawyers
 
    ```sh
     Run the code :  Login\views\index.html
    ```
 
-3. Run the nyAI for your legal Assistance
+4. Run the nyAI for your legal Assistance
    ```sh
     node '.\Lawyer-Assist\Chatbot\test - Copy\chatbot2\src\server.js'
    ```
